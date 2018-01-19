@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379827940075",
+    "firebase_url": "https://kamserver-1908c.firebaseio.com",
+    "project_id": "kamserver-1908c",
+    "storage_bucket": "kamserver-1908c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379827940075:android:001ed79b37a55098",
+        "android_client_info": {
+          "package_name": "com.first.ridima.kamserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379827940075-dbngppj8a2h8k24iibrsoi49jnr14jlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.first.ridima.kamserver",
+            "certificate_hash": "deaa7f563ca945868404dbd3efa5338986f2c365"
+          }
+        },
+        {
+          "client_id": "379827940075-fk5fvc4113reuosfkd6ti53r8qv7spmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdc_JY6NDES6RbuBy2cfxskiwnp6mKXpE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379827940075-fk5fvc4113reuosfkd6ti53r8qv7spmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
